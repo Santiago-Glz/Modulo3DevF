@@ -1,0 +1,13 @@
+algoritmo numero par/impar
+inicio
+Declarar la funcion a realizar
+Declarar variable i;
+if i == vacio; 
+imprimir "completar campo";
+else if (i <= 0)
+imprimir "el campo no es valido";
+else if (i%2 == 0)
+imprimir "el numero es par";
+else 
+imprimir "el numero es impar";
+fin
